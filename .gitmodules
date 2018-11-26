@@ -1,0 +1,3 @@
+[submodule "Main/Subs/sub1"]
+	path = Main/Subs/sub1
+	url = https://github.com/happylennychen/sub1
